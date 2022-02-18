@@ -70,4 +70,4 @@ Executables take four integer arguments (HEIGHT, DEPTH, WIDTH, BIT).
 * Matrix multiplication shape is AxB = (HEIGHT, DEPTH) x (DEPTH, WIDTH).
 * BIT determines the bit precision of B.
 * A is fixed to ternary.
-* For the speed evaluation, main files will generate dummy data, run the code for 1,000 times, average the execution latency and print the result. 
+* For the speed evaluation, script will generate dummy data, run the code for 1,000 times, average the execution latency and print the result. 
