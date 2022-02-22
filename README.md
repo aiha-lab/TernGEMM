@@ -7,6 +7,8 @@ This repository contains a code for the paper:
 Seokhyeon Choi, Kyuhong Shim, Jungwook Choi, Wonyong Sung, Byonghyo Shim
 
 * IEEE Workshop on Signal Processing Systems (SiPS) 2021: https://ieeexplore.ieee.org/document/9605039
+  
+This repository is under GPL-3.0 license.
 
 
 ## Summary
